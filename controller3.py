@@ -3,7 +3,7 @@ from mysql.connector import connect
 # connection information
 hostname = "localhost"
 user_name = "root"
-pwd = "147!@#rewqSQL"
+pwd = "root"
 base = "essential_books"
 
 
